@@ -1,5 +1,5 @@
 {
-  "name": "sha-microservice-transaction",
+  "name": "spring-microserv-transaction",
   "buildpacks": [
     {
       "url": "heroku/gradle"
